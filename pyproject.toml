@@ -38,6 +38,7 @@ typing-extensions = "^4.9.0"
 gruut = "^2.3.4"
 gruut-ipa = "^0.13.0"
 gruut-lang-en = "^2.0.0"
+openphonemizer = "*"
 networkx = "^2.8.8, <3.0.0"
 
 [build-system]
